@@ -12,6 +12,7 @@
     "babel-core": "^6.13.2",
     "babel-eslint": "^7.0.0",
     "babel-preset-es2015": "^6.13.2",
+    "babel-preset-flow": "^6.23.0",
     "babel-preset-stage-0": "^6.0.0",
     "babel-register": "^6.14.0",
     "chalk": "1.1.1",
@@ -43,6 +44,7 @@
           "loose": true
         }
       ],
+      "flow",
       "stage-0"
     ]
   }
