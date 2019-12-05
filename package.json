@@ -17,7 +17,7 @@
     "babel-register": "^7.0.0-alpha.7",
     "chalk": "1.1.1",
     "codecov": "^1.0.1",
-    "eslint": "^3.9.0",
+    "eslint": "^4.18.2",
     "eslint-config-babel": "^6.0.0",
     "eslint-plugin-flowtype": "^2.20.0",
     "gulp": "^3.9.0",
