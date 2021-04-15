@@ -1,0 +1,19 @@
+{
+  "generated": true,
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "./lib",
+    "rootDir": "./src"
+  },
+  "include": [
+    "./src/**/*"
+  ],
+  "references": [
+    {
+      "path": "../babel-types"
+    },
+    {
+      "path": "../babel-traverse"
+    }
+  ]
+}
